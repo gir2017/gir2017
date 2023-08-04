@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hello! :wave:
+#### :sparkles: A bit about me :sparkles:
+* :mortar_board: Bachelor's degree in Radiochemistry in 2019<br>
+* :woman: Worked in the proteomic field, performed tasks connected with QA and data annotation<br>
+* :books:  Completed Skillfactory Data Science specialization Course  in July 2023
 
-<!--
-**gir2017/gir2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:bulb: Core competencies :bulb:
+* Tools:
+  * Python;
+  * R;
+  * SQL
+* Skills:
+  - Hard skills:
+     * Data Cleaning and Wrangling;
+     * Data Analysis, EDA;
+     * Data Visualisation;
+     * Machine Learning and Deep Learning;
+     * Relational Databases
+  - Soft skills:
+    - Learning;
+    - Communication skills;
+    - Team player;
+    - Critical thinking 
 
-Here are some ideas to get you started:
+⚡️ Currently ⚡️<br>
+* Expanding my SQL query knowledge and implementation
+* Refining data cleaning and ML skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙌🏻 Contact me
+* [Telegram](https://t.me/Gir2017)
+* [WhatsApp](https://wa.me/48571787959)
+
