@@ -1,5 +1,5 @@
 ## Hello! :wave:
-#### :sparkles: A bit about me :sparkles:
+#### A bit about me
 * :mortar_board: Bachelor's degree in Radiochemistry in 2019<br>
 * :woman: Worked in the proteomic field, performed tasks connected with QA and data annotation<br>
 * :books:  Completed Skillfactory Data Science specialization Course  in July 2023
