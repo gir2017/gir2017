@@ -29,4 +29,5 @@
 🙌🏻 Contact me
 * [Telegram](https://t.me/Gir2017)
 * [WhatsApp](https://wa.me/48571787959)
+* [LinkedIn](https://www.linkedin.com/in/alena-kurylchyk-4478b6165/)
 
